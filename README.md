@@ -1,5 +1,5 @@
 # RoCarl-Map
-the world map of Republic of Carl in Minecraft
+The website of Republic of Carl in Minecraft
 
 All episodes are here except Episode 1 and 2.
 
